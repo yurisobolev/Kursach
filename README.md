@@ -1,0 +1,1 @@
+Coursework in the C++ programming language. Which allows you to create and sort a database of students. Sort Strictly By Purpose: Sort the group by whether it is mandatory in each session or entered at the request of the user, with the assignment of the student's gender.
